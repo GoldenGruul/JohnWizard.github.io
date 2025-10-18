@@ -54,7 +54,6 @@ function App() {
     const handleMagicTrick = () => {
       // Get the Category inputs directly from the categories array
       let questions = categories.filter(q => q.trim() !== '');
-      setCategories(questions);
       let ans = [...questions];
       
       if (questions.length < 5) {
