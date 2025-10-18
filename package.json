@@ -1,7 +1,7 @@
 {
   "name": "john-wizard",
   "version": "0.0.0",
-  "homepage": "https://GoldenGruul.github.io",
+  "homepage": "https://goldengruul.github.io/JohnWizard.github.io",
   "main": "/src/index.js",
   "scripts": {
     "start": "react-scripts start",
