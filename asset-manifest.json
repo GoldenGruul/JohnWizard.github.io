@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JohnWizard.github.io/static/css/main.197fe074.css",
+    "main.js": "/JohnWizard.github.io/static/js/main.fac7eed2.js",
+    "index.html": "/JohnWizard.github.io/index.html",
+    "main.197fe074.css.map": "/JohnWizard.github.io/static/css/main.197fe074.css.map",
+    "main.fac7eed2.js.map": "/JohnWizard.github.io/static/js/main.fac7eed2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.197fe074.css",
+    "static/js/main.fac7eed2.js"
+  ]
+}
